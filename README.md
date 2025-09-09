@@ -1,0 +1,2 @@
+# Assessing-U.S.-Tariff-Induced-Volatility-Spillovers-to-China-s-Equity-Market-A-DCC-GARCH-Analysis
+Utilized the DCC-GARCH model to analyze the spillover effects of 14 U.S. tariff events, quantifying cross-border risk transmission intensity through dynamic conditional correlations; identified a significant 0.12 increase in correlation coefficients, revealing the risk linkage in capital markets under policy shocks
